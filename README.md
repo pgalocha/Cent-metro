@@ -11,3 +11,6 @@ A aplicação permite simular viagens dando no final o custo (temporal ou monet�
 
 - Admin
     - Pode inserir / editar / apagar / carregar por uma interface gráfica que lhe é disponibilizada. 
+
+
+#Co-op with J.Alves
